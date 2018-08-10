@@ -358,11 +358,8 @@ Je zou dus eigenlijk kunnen zeggen dat het op dit moment niet de moeite waard is
 
 ## Relevante Links
 
-https://tweakers.net/nieuws/136631/internet-engineering-task-force-brengt-tls-13-uit.html
-https://www.ietf.org/mail-archive/web/ietf-announce/current/msg17592.html
-https://datatracker.ietf.org/doc/draft-ietf-tls-tls13/
+* https://tweakers.net/nieuws/136631/internet-engineering-task-force-brengt-tls-13-uit.html
+* https://www.ietf.org/mail-archive/web/ietf-announce/current/msg17592.html
+* https://datatracker.ietf.org/doc/draft-ietf-tls-tls13/
 
-https://www.techrepublic.com/article/tls-1-3-is-approved-heres-how-it-could-make-the-entire-internet-safer/
-https://kinsta.com/blog/tls-1-3/
-https://computerworld.nl/netwerken/104061-systeembeheerders-bezorgd-over-tls-1-3
-https://www.cloudflare.com/learning-resources/tls-1-3/
+
