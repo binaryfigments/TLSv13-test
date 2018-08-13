@@ -352,7 +352,7 @@ Start Nginx en test je configuratie met [SSLLabs](https://networking4all.ssllabs
 
 TLS versie 1.3 is dan wel uit maar is nog niet standaard en algemeen beschikbaar in diverse Linux packages en software die ik getest heb. Hierdoor ben ik zelf aan de slag gegaan met het zelf compilen van Nginx op een server. Ook de ondersteuning op Microsoft servers met IIS is nog niet aanwezig.
 
-Op mijn Windows werkstation met Chrome 68 stond TLS 1.3 nog niet aan. Dit is wel aan te zetten via de `chrome://flags`. Firefox 61 werkte wel op mijn werkstation en zo ook Chrome Canary 70.
+Op mijn Windows werkstation met Chrome 68 werkte TLS 1.3 (draft 28) goed. Een eerdere versie van Chrome werkte niet direct hier moest TLS 1.3 aangezet worden via de `chrome://flags`. Ook Firefox 61 werkte wel op mijn werkstation en zo ook Chrome Canary 70.
 
 Je zou dus eigenlijk kunnen zeggen dat het op dit moment niet de moeite waard is om veel tijd te steken in het ondersteunen van TLS versie 1.3. Wel adviseer ik om alles hier om heen in de gaten te houden.
 
